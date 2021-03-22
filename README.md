@@ -1,2 +1,2 @@
-# python_poker
+# Python poker
 How many  cards in the hand?
